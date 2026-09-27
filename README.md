@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Nad-e-Ali Shabbar Baig and I'm a freshmen studying at bilkent university enrolled in the computer engineering major. I plan on going into the "game development" field and will be posting all my projects here
+
+
 <!--
 **NadeAliBaig/NadeAliBaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
